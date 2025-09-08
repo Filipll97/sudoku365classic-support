@@ -167,6 +167,10 @@ footer {
     font-size: 0.95rem;
   }
 
+  .faq-item {
+    margin: 0 10px;
+  }
+
   .faq-item h2 {
     font-size: 1.05rem;
   }

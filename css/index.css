@@ -135,6 +135,10 @@ footer {
     font-size: 0.95rem;
   }
 
+  .contact-card {
+    margin: 0 10px;
+  }
+
   .contact-card h2 {
     font-size: 1.1rem;
   }
